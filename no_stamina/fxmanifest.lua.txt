@@ -1,0 +1,8 @@
+fx_version 'cerulean'
+game 'gta5'
+
+author 'Chrisser'
+description 'Fjerner stamina fra serveren - developet by Enzõu.'
+version '1.0.0'
+
+client_script 'client.lua'
